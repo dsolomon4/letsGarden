@@ -1,0 +1,60 @@
+body{
+  background: url("../img/hydrangea-3659614_1920.jpg");
+    height: 800px;
+}
+ 
+.bio-holder{
+  background-color:  rgb(196, 163, 163);
+  /* height: 400px;
+  width: 400px; */
+  text-align: center;
+  margin: 15px 15px;
+  /* position: relative; */
+  border-radius: 2px;
+
+}
+
+.bio-card {
+    background: rgb(245, 210, 210);
+    border-radius: 2px;
+    height: 300px;
+    margin: 25px 25px;
+    position: relative;
+    width: 350px;
+    box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+    text-align: center;
+    border-radius: 2px;
+  }
+  
+  .bio-name{
+    font-size: 25px;
+    font-family: 'Cinzel', serif;
+  }
+
+  #row{
+    align-content: center;
+    padding-top: 40px;
+    padding-left: 150px;
+  }
+
+#bio-img{
+  height: 200px;
+  width: 200px;
+}
+
+#h2-bio{
+  margin-top: 15px;
+  padding-top: 25px;
+  padding-bottom: 10px;
+  margin-left: 150px;
+  font-family: 'Kaushan Script', cursive;
+  font-size: 60px;
+  background-color:  rgb(196, 163, 163);
+  width: 827px;
+  border-radius: 5px;
+  color: rgb(252, 240, 240);
+}
+
+.bio-card a{
+  color: slategrey;
+}

@@ -1,0 +1,38 @@
+body{
+    background: url("../img/leaf-1001679_1920.jpg") no-repeat fixed;
+}
+
+.profile-holder{
+    background-color: rgb(89, 202, 127);
+    width: 600px;
+    height: 250px;
+    padding-left: 85px;
+    padding-top: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 5px;
+}
+
+.garden{
+    background-color: rgb(89, 202, 127);
+    width: 600px;
+    /* height: 250px; */
+    margin-top: 15px;
+    padding-left: 45px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 5px;
+}
+
+#btn{
+    margin: 5px;
+}
+
+.profile-body{
+    align-content: center;
+    margin: 15px 55px;
+    padding: 0px 150px;
+
+
+}

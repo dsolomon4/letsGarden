@@ -1,0 +1,27 @@
+header {
+    background: #000000 url("../img/wild-flowers-571940_1920.jpg") 25% 100% no-repeat;
+    height: 155px;
+    /* background-color: lightgreen; */
+    padding: 20px;
+}
+
+#brand{
+    background-color: white;
+    font-family: 'Sacramento', cursive;
+    font-size: 36px;
+    width: 115px;
+    margin-left: 15px;
+    margin-bottom: 5px;
+}
+
+#nav-css{
+    font-family: 'Cardo', serif;
+    font-size: 15px;
+    background-color: white;
+    margin-left: 5px;
+    color: black;
+}
+
+#nav-bar-right{
+    margin-left: 735px;
+}
